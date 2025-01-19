@@ -19,6 +19,14 @@ body {
   height: 100vh;
 }
 
+.slider-container p {
+  text-align: center;
+}
+
+.slider-container :nth-child(3) {
+  text-align: center;
+}
+
 .left-slide {
   height: 100%;
   width: 35%;
